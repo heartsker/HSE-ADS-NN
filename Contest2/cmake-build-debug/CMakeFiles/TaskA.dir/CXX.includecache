@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/heartsker/OneDrive/University/ADS_NN/Contest2/TaskA.cpp
+iostream
+-
+vector
+-
+fstream
+-
+queue
+-
+algorithm
+-
+

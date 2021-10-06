@@ -1,0 +1,4 @@
+/Users/heartsker/OneDrive/University/ADS_NN/Contest_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/heartsker/OneDrive/University/ADS_NN/Contest_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heartsker/OneDrive/University/ADS_NN/Contest_3/cmake-build-debug/CMakeFiles/TaskB.dir
+/Users/heartsker/OneDrive/University/ADS_NN/Contest_3/cmake-build-debug/CMakeFiles/TaskA.dir

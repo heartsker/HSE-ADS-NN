@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/heartsker/OneDrive/University/HSE-ADS-NN/Contest_5/taskA.cpp
+iostream
+-
+fstream
+-
+iomanip
+-
+cmath
+-
+string
+-
+vector
+-
+set
+-
+map
+-
+unordered_set
+-
+unordered_map
+-
+queue
+-
+deque
+-
+algorithm
+-
+tuple
+-
+
